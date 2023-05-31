@@ -1,1 +1,2 @@
-# Easy access to web development and other Comp Sci related resources. 
+Easy access to web development and other Comp Sci related resources. 
+*Github Repositories
